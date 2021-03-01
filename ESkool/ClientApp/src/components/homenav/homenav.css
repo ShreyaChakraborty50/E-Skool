@@ -1,0 +1,86 @@
+.home-nav-container {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10%;
+  padding-right: 7%;
+  background: white;
+}
+.home-nav-container-items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-nav-container-logo {
+  display: flex;
+  margin-right: 10%;
+}
+
+.home-nav-container-menu {
+  display: flex;
+}
+
+.logo-nav {
+  width: 100px;
+  height: 40px;
+}
+
+.nav-home-home {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  background: transparent;
+  border: 0;
+}
+.nav-classes {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  background: transparent;
+  border: 0;
+}
+
+.nav-messages {
+  display: flex;
+  align-items: center;
+  background: transparent;
+  border: 0;
+}
+
+.home-home-nav-icon {
+  width: 35px;
+  height: 35px;
+  margin-right: 5px;
+}
+.classes-nav-icon {
+  width: 35px;
+  height: 35px;
+  margin-right: 5px;
+}
+.messages-nav-icon {
+  width: 35px;
+  height: 35px;
+  margin-right: 5px;
+}
+
+.nav-classes {
+  display: flex;
+}
+
+.nav-messages {
+  display: flex;
+}
+
+.home-nav-container-user {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.notification-nav-icon {
+  width: 60px;
+  height: 60px;
+}
+.user-nav-icon {
+  width: 60px;
+  height: 60px;
+}

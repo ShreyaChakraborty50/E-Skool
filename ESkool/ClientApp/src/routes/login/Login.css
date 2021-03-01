@@ -1,0 +1,131 @@
+.container-login {
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.choose-account-icon {
+  display: flex;
+  justify-content: space-around;
+  width: 30%;
+}
+
+.teacher-icon-container {
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+}
+
+.teacher-icon-container-selected {
+  width: 150px;
+  height: 150px;
+  border: 1px solid blue;
+  box-shadow: 0px 0px 2px 2px blue;
+}
+
+.student-icon-container {
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+}
+
+.student-icon-container-selected {
+  width: 150px;
+  height: 150px;
+  border: 1px solid blue;
+  box-shadow: 0px 0px 2px 2px blue;
+}
+
+.teacher-icon {
+  width: 150px;
+  height: 150px;
+}
+
+.student-icon {
+  width: 150px;
+  height: 150px;
+}
+
+.login-form {
+  width: 400px;
+  height: 70px;
+  margin-top: 15px;
+}
+
+.register-login {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.email-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 10px;
+  margin-bottom: 15px;
+}
+
+.password-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 10px;
+}
+
+.email-error-message {
+  color: red;
+  font-size: 80%;
+  padding-left: 5px;
+}
+
+.password-error-message {
+  color: red;
+  font-size: 80%;
+  padding-left: 5px;
+}
+
+.login-button {
+  width: 100px;
+  height: 35px;
+  background: #0099ff;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border: 0;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  margin-bottom: 10px;
+}
+
+.login-button-disabled {
+  width: 100px;
+  height: 35px;
+  background: gray;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border: 0;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  margin-bottom: 10px;
+}
+
+.forget-password {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 200px;
+  margin-bottom: 14px;
+  font-size: 12px;
+}

@@ -1,0 +1,12 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.DS_Store
+.idea
+ESkool/ClientApp/node_modules/
+ESkool/ClientApp/.gitignore
+ESkool/ClientApp/.env
+ESkool/ClientApp/.DS_Store
+

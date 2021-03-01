@@ -1,0 +1,17 @@
+.info-container {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 20px;
+    
+}
+.className-text-header {
+    color: darkblue;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+.classId-text-header {
+    color:gray;
+    margin-top: 0px;
+}

@@ -1,0 +1,21 @@
+.outer-container {
+  background: whitesmoke;
+}
+.container-home {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  align-items: center;
+  margin-top: 5%;
+}
+.container-sidebar-feed {
+  display: flex;
+}
+
+.container-sidebar {
+  margin-right: 70px;
+}
+
+.container-feed {
+}

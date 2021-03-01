@@ -1,0 +1,13 @@
+.sidebar-outer-container {
+}
+
+.upper-container {
+  background: white;
+  width: 300px;
+}
+
+.lower-container {
+  background: white;
+  width: 300px;
+  margin-top: 50px;
+}

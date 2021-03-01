@@ -1,0 +1,137 @@
+.overview-nav {
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    justify-content: space-between;
+}
+.menu-section-nav {
+    display: flex;
+}
+.logo-section-nav {
+    display: flex;
+    align-items: center;
+}
+.wiseowl-img {
+    height: 70px;
+}
+.logo-img {
+    height: 50px;
+}
+
+.cover1 {
+    display: flex;
+    align-items: center;
+    padding-left: 55px;
+}
+.cover1-header-text {
+    font-size: 40px;
+    color: blue;
+    margin: 0;
+}
+.cover1-tagline {
+    font-size: 26px;
+    color: gray;
+}
+.cover1-signup-button {
+    background: darkblue;
+    color: white;
+    height: 60px;
+    font-weight: bolder;
+    font-size: 25px;
+    border: 0;
+    padding: 15px;
+    border-radius: 6px;
+}
+.cover-img1 {
+    
+}
+
+.cover2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 30px;
+    margin-top: 20px;
+}
+.cover2-text-section {
+    text-align: start;
+}
+.cover2-tagline-text {
+    font-size: 26px;
+    color: gray;
+    margin-top: 20px;
+}
+.cover-img2 {
+    
+}
+.cover3 {
+    display: flex;
+    align-items: center;
+    padding-left: 55px;
+    padding-right: 40px;
+}
+.cover-img3 {
+    width: 700px;
+    height: 600px;
+}
+.cover3-text-section {
+    text-align: end;
+    padding-right: 15px;
+}
+.cover3-tagline-text {
+    font-size: 26px;
+    color: gray;
+    margin-top: 20px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+.footer-left-section {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding-left: 53px;
+}
+.footer-right-section {
+    padding-right: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.footer-text {
+    font-size: 18px;
+    color: gray;
+}
+.footer-text-section {
+    width: 500px;
+    text-align: start;
+    padding-left: 10px;
+}
+.about-text {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 5px;
+    color: blue;
+}
+.contact-text {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 5px;
+    color: blue;
+}
+.overview-nav-language-button {
+    background: white;
+    border: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+.overview-nav-login-button {
+    background: white;
+    border: 0;
+    font-size: 20px;
+    font-weight: bold;
+}

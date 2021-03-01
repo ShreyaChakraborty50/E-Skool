@@ -1,0 +1,32 @@
+.classes-outer-container {
+    background: whitesmoke;
+    height: 100vh;
+}
+.classes-navbar {
+    border-top: 1px solid black;
+    display: flex;
+    background: white;
+    justify-content: flex-start;
+    padding-left: 10%;
+    padding-right: 7%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.classes-section {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 10%;
+    padding-right: 7%;
+    padding-top: 6%;
+}
+.class-management-nav {
+    margin-right: 2%;
+    font-size: 18px;
+}
+.whatsdue-nav {
+    margin-right: 2%;
+    font-size: 18px;
+}
+.progress-nav {
+    font-size: 18px;
+}

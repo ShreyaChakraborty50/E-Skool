@@ -1,0 +1,31 @@
+.img-text-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h4 {
+  margin: 5px;
+  padding: 0;
+}
+p {
+  margin: 0;
+  padding: 0;
+  font-size: 90%;
+}
+.profile-completed-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+.divider-upper-sidebar {
+  margin: 0;
+  padding: 0;
+}
+
+.completed-icon {
+  width: 12%;
+  height: 12%;
+  margin-right: 2%;
+}
